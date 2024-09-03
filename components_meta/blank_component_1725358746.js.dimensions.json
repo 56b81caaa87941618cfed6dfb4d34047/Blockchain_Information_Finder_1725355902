@@ -1,0 +1,18 @@
+{
+    "id": "blank_component-00ffafe2-cd1f-a288-1cab-e103c4fd1fa1",
+    "name": "blank_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 12,
+    "x": "100",
+    "y": "100",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
